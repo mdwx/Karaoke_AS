@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+    <Button
+	android:id="@+id/Rec"
+	android:layout_width="0dp" 
+	android:layout_height="20sp" 
+	android:layout_weight="1"
+	android:layout_marginLeft="100dip"
+	android:gravity="right"
+    android:background="@drawable/secretvideorecordingpro"
+    android:textColor="#1E90FF"	
+	android:focusable = "false"
+	android:visibility="invisible"
+	
+	></Button>
+    <TextView
+        android:id="@+id/CurrentTitle"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        android:gravity="left"
+        android:layout_marginLeft="25dip"
+        android:text="@string/current"
+        android:textSize="20sp" />
+
+    <com.fonsview.localktv.tool.MarqueeText
+        android:id="@+id/CurrentMusic"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dip"
+        android:layout_weight="30"
+        android:gravity="left"
+        android:text="@string/END"
+        android:textSize="20sp" />
+</LinearLayout>
+
+     <LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+	    android:layout_marginLeft="125dip" >
+    <TextView
+        android:id="@+id/NextTitle"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+      
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/next"
+        android:textSize="20sp" />
+
+    <com.fonsview.localktv.tool.MarqueeText
+        android:id="@+id/NextMusic"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dip"
+        android:layout_weight="6"
+        android:gravity="left"
+        android:text="@string/END"
+        android:textSize="20sp" />
+    </LinearLayout>
+
+</LinearLayout>

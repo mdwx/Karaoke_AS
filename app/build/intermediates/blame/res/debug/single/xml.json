@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Karaoke_AS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\symbols.xml",
+        "source": "D:\\Karaoke_AS\\app\\src\\main\\res\\xml\\symbols.xml"
+    },
+    {
+        "merged": "D:\\Karaoke_AS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\vertical.xml",
+        "source": "D:\\Karaoke_AS\\app\\src\\main\\res\\xml\\vertical.xml"
+    },
+    {
+        "merged": "D:\\Karaoke_AS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\horizontal.xml",
+        "source": "D:\\Karaoke_AS\\app\\src\\main\\res\\xml\\horizontal.xml"
+    }
+]

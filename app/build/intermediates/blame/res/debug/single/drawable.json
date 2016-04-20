@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Karaoke_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\normal_key_bg.9.png",
+        "source": "D:\\Karaoke_AS\\app\\src\\main\\res\\drawable\\normal_key_bg.9.png"
+    },
+    {
+        "merged": "D:\\Karaoke_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background.xml",
+        "source": "D:\\Karaoke_AS\\app\\src\\main\\res\\drawable\\sidebar_background.xml"
+    },
+    {
+        "merged": "D:\\Karaoke_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\normal_key_hl_bg.9.png",
+        "source": "D:\\Karaoke_AS\\app\\src\\main\\res\\drawable\\normal_key_hl_bg.9.png"
+    },
+    {
+        "merged": "D:\\Karaoke_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_keyboard_key.xml",
+        "source": "D:\\Karaoke_AS\\app\\src\\main\\res\\drawable\\btn_keyboard_key.xml"
+    }
+]

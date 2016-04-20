@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fvmktv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/fvmktv.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

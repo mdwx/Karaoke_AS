@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Karaoke_AS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3bec8c96375da8b6aced1e48d35c7d53502f099e">
+        <dex dex="D:\Karaoke_AS\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_220bc9b1c7986b163b4b6110b15fdcc05d8595be.jar" />
+    </item>
+
+</items>

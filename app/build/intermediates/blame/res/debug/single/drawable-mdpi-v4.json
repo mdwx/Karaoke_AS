@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Karaoke_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\okbg.png",
+        "source": "D:\\Karaoke_AS\\app\\src\\main\\res\\drawable-mdpi\\okbg.png"
+    },
+    {
+        "merged": "D:\\Karaoke_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\search_bar_icon_normal.png",
+        "source": "D:\\Karaoke_AS\\app\\src\\main\\res\\drawable-mdpi\\search_bar_icon_normal.png"
+    },
+    {
+        "merged": "D:\\Karaoke_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\emotionstore_progresscancelbtn.png",
+        "source": "D:\\Karaoke_AS\\app\\src\\main\\res\\drawable-mdpi\\emotionstore_progresscancelbtn.png"
+    },
+    {
+        "merged": "D:\\Karaoke_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\Karaoke_AS\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Karaoke_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\secretvideorecordingpro.png",
+        "source": "D:\\Karaoke_AS\\app\\src\\main\\res\\drawable-mdpi\\secretvideorecordingpro.png"
+    },
+    {
+        "merged": "D:\\Karaoke_AS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tools.jpg",
+        "source": "D:\\Karaoke_AS\\app\\src\\main\\res\\drawable-mdpi\\tools.jpg"
+    }
+]

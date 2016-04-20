@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalKTV</string>
+    <string name="action_settings">Settings</string>
+    <string name="play">播放\n\n暂停\n</string>
+    <string name="Cut">下一首</string>
+    <string name="restart">\n重唱\n</string>
+    <string name="SelectList">选择你要的操作</string>
+ 	<string name="accompany">原唱\n伴唱</string>
+    <string name="next">下一首 :\t</string>
+    <string name="current">当前播放:</string>
+    <string name="inputKey">关键字，歌手 或 歌名</string>
+    <string name="inputsingerKey">关键字。歌手名</string>
+    <string name="inputESC">再按一次退出程序</string>
+    <string name="addsuccess">成功添加歌曲到已选列表</string>
+    <string name="delsong">移出成功</string>
+    <string name="select">录音</string>    
+    <string name="AutoModes">原声播放</string>  
+    <string name="AccompanyModes">伴唱模式</string>  
+    <string name="NoAccompany">该歌曲没有伴唱</string>  
+    <string name="confirm">确定</string> 
+    <string name="cancel">取消</string> 
+    <string name="END">歌曲已经播放完毕</string> 
+    
+    <string name="sticky">置顶</string>     
+    <string name="del">删除</string>  
+    <string name="playnow">立即播放</string>  
+    
+    <string name="allsong">所有歌曲"</string>     
+    <string name="selectedsong">已选歌曲</string>     
+    <string name="search">搜索歌曲</string>
+    <string name="searchlanguage">语种搜索</string>
+    <string name="searchSinger">歌手搜索</string>             
+	<string name="searchNumber">字数搜索</string> 
+	<string name="searchStyle">风格搜索</string>  
+	<string name="MyRecorder">我的录音</string>  	
+	<string name="OthersMusic">其他音乐</string>
+	
+	
+	<string name="NationalLanguager">国语歌曲</string> 
+	<string name="EnglishLanguager">英语歌曲</string> 
+	<string name="Cantonese">粤语歌曲</string> 
+	<string name="Taiwanese">台湾歌曲</string>    
+	
+	
+	<string name="Style_popular">流行歌曲</string> 
+	<string name="Style_reminiscence">怀旧歌曲</string> 
+	<string name="Style_children">儿童歌曲</string> 
+	<string name="Style_dance">舞蹈歌曲</string>        
+        
+</resources>

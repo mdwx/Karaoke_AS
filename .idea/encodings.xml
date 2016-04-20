@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/AppContext.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/dataSources/CursorDate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/dataSources/FSVMediaRecorder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/dataSources/FvVideoPlay.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/dataSources/InterfaceCursorDate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/dataSources/MediaPlayerControl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/dataSources/MyMediaPlay.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/dataSources/ThreadPool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/fragment/HintFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/fragment/ItemFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/fragment/KeyboardFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/fragment/SideBarlFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/keyborad/KeyboardUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/keyborad/MyKeyboardView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/mfcc/FFT.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/mfcc/MFCC.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/model/Factory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/model/ItemContent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/model/MediaBase.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/fonsview/localktv/model/ModelBase.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

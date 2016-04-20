@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black" >
+   
+    <EditText
+		android:id="@+id/edit"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:drawableLeft="@drawable/search_bar_icon_normal"
+		android:hint="@string/inputKey"
+		android:singleLine="true"
+		android:focusable="false"
+		/>
+
+    <RelativeLayout
+        android:id="@+id/keyboardContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit">
+
+        <com.fonsview.localktv.keyborad.MyKeyboardView
+            android:id="@+id/keyboard_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/lightblack"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:keyBackground="@drawable/btn_keyboard_key"
+            android:keyTextColor="@color/white" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Karaoke_AS\app\src\main\jniLibs"><file name="armeabi/libFFT.so" path="D:\Karaoke_AS\app\src\main\jniLibs\armeabi\libFFT.so"/><file name="armeabi/libfvmktv.so" path="D:\Karaoke_AS\app\src\main\jniLibs\armeabi\libfvmktv.so"/></source></dataSet><dataSet config="debug"><source path="D:\Karaoke_AS\app\src\debug\jniLibs"/></dataSet></merger>
