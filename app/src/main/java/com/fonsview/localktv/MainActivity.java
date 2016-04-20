@@ -472,6 +472,10 @@ public class MainActivity extends Activity 	implements
 
 
 				file = new File(s.toString());
+				if(!file.exists())
+				{
+						file.mkdirs();
+				}
 
 				s.append("Recorder"+title+".mp4");
 				MediaBase rec= new MediaBase("Recorder"+title,s.toString());
